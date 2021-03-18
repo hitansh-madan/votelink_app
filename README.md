@@ -1,16 +1,18 @@
-# votelink
+# Votelink App
 
-App for Votelink blockchain voting system
+Frontend for [Votelink](https://github.com/hitansh-madan/votelink)
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/63235227/111696488-5f2ab280-885a-11eb-8591-9f77f123d6fc.png" width="24%" />
+  <img src="https://user-images.githubusercontent.com/63235227/111696540-710c5580-885a-11eb-89b1-192faaf89c8b.png" width="24%" />
+  <img src="https://user-images.githubusercontent.com/63235227/111696548-736eaf80-885a-11eb-9e46-003d5399658d.png" width="24%" />
+  <img src="https://user-images.githubusercontent.com/63235227/111696551-75387300-885a-11eb-9366-d9e0c10382d8.png" width="24%" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/63235227/111696557-7669a000-885a-11eb-9809-3b3037434874.png" width="32%" />
+  <img src="https://user-images.githubusercontent.com/63235227/111696568-78cbfa00-885a-11eb-8d45-9c59879f3489.png" width="32%" />
+  <img src="https://user-images.githubusercontent.com/63235227/111696573-79fd2700-885a-11eb-9de0-77870667181c.png" width="32%" />
+</p>
